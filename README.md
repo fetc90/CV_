@@ -1,5 +1,4 @@
 ## Francesca Chater 
- Blog | LinkedIn
 
 I am a full-stack developer with a background in marketing and PR. During my previous role, I realised I wanted a career where I could keep actively learning and build things, so I took the plunge, quit everything, and retrained in software engineering. Since graduating, I have built an AR app in Unity and C#, I am advancing my JavaScript skills by working through Tyler McGinnis’ online courses to build an app in React, and I am attending workshops to continue practising and building on what I have learnt.
 
