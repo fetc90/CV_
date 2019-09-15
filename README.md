@@ -8,7 +8,7 @@ Project | Group  Solo | Days | Tech Stack | Purpose | Article
 [Deeproot](https://github.com/breycarr/deep_root) | Group | 10 | Python3, Eel, JavaScript, HTML, CSS, Raspberry Pi |A plant health monitoring system | [How to TDD hardware?](https://medium.com/@fetc/how-do-you-tdd-code-with-hardware-afc0518e3260)
 [Spacebook Github](https://github.com/fetc90/acebook-spacebook), <br> [Live App](https://acebook-spacebook.herokuapp.com/) | Group | 10 | Ruby on Rails, RSpec, Capybara, Travis CI, Heroku | Use CI to deploy app | [Fixing Heroku](https://medium.com/@fetc/fixing-heroku-a8fa93605b91)
 [Fireworks](https://github.com/fetc90/fireworks), <br> [Palm Tree](https://github.com/fetc90/palm-tree) | Solo | 5 | C#, Unity, Vuforia | Build an AR app | [The Unity Universe](https://medium.com/@fetc/unity-universe-40674d850652)
-[Thermostat](https://github.com/fetc90/thermostatJS) | Solo | 3 | JavaScript, JQuery, Jasmin | Single Page web app with weather API| [JavaScript in Johannesburg](https://medium.com/@fetc/javascript-in-johannesburg-26a73014b4e0)
+[Thermostat](https://github.com/fetc90/thermostatJS) | Solo | 3 | JavaScript, JQuery, Jasmin | Single Page web app with weather API| ---
 [Chitter](https://github.com/fetc90/chitter-challenge) | Solo | 2 | Ruby, RSpec, PostgreSQL |Twitter clone with database | ---
 
 ### Education
