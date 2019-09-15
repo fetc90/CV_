@@ -1,6 +1,7 @@
 ## Francesca Chater 
 
-I am a full-stack developer with a background in marketing and PR. During my previous role, I realised I wanted a career where I could keep actively learning and build things, so I took the plunge, quit everything, and retrained in software engineering. Since graduating, I have built an AR app in Unity and C#, I am advancing my JavaScript skills by working through Tyler McGinnis’ online courses to build an app in React, and I am attending workshops to continue practising and building on what I have learnt.
+I am a full-stack developer with a background in marketing and PR. During my previous role, I realised I wanted a career where I could keep actively learning and build things, so I took the plunge, quit everything, and retrained in software engineering. Since graduating, I have been working through Tyler McGinnis’ [courses](https://tylermcginnis.com/courses/) and attending regular meetups to develop my JavaScript and front-end skills to build an app in React. I have also had a lot of fun experimenting with C# and Unity to create an AR app.
+
 
 Project | Group  Solo | Days | Tech Stack | Purpose | Article
 ----|-----|-----|-----|-----|-----
